@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0283-move-zeroes) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/1480-running-sum-of-1d-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
