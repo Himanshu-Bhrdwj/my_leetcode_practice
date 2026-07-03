@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0217-contains-duplicate) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/1470-shuffle-the-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0189-rotate-array) |
 | [1512-number-of-good-pairs](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
