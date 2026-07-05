@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1051-height-checker](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/1089-duplicate-zeros) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/1470-shuffle-the-array) |
