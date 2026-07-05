@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1051-height-checker](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/1051-height-checker) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/1480-running-sum-of-1d-array) |
@@ -70,4 +71,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1051-height-checker](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/1051-height-checker) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
