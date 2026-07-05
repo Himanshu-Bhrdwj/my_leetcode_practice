@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/1089-duplicate-zeros) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Counting Sort
