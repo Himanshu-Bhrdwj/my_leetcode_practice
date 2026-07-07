@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0485-max-consecutive-ones) |
 | [0905-sort-array-by-parity](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/1051-height-checker) |
