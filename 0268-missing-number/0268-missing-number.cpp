@@ -4,7 +4,6 @@ public:
         int n = nums.size();
         int sum = 0;
         int totalSum = 0;
-        int result;
 
         for(int i : nums){
             sum += i;
@@ -14,8 +13,6 @@ public:
             totalSum += i;
         }
 
-        result = totalSum - sum;
-
-        return result;
+        return totalSum -= sum;
     }
 };
