@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0485-max-consecutive-ones) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0905-sort-array-by-parity) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/1512-number-of-good-pairs) |
 ## Math
