@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0922-sort-array-by-parity-ii) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Himanshu-Bhrdwj/my_leetcode_practice/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
