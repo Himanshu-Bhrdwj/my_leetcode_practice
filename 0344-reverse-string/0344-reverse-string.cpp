@@ -6,9 +6,7 @@ public:
         int temp;
 
         while(low < high){
-            temp = s[low];
-            s[low] = s[high];
-            s[high] = temp;
+            swap(s[low], s[high]);
             low++;
             high--;
         }
